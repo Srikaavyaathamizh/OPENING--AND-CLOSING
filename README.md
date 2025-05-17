@@ -8,25 +8,21 @@ To implement Opening and Closing using Python and OpenCV.
 ## Algorithm:
 ### Step1:
 <br>
+Import required libraries.
 
 
 ### Step2:
 <br>
-Import required libraries.
-
-
-### Step3:
-<br>
 Create white noise image and use it to display the opening image.
 
 
-### Step4:
+### Step3:
 <br>
 Display the opening image.
 
 
 
-### Step5:
+### Step4:
 <br>
 Create black noise image and use it to display the closing image.
 
